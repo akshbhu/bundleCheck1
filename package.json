@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@aws-amplify/cli-internal": "file:../../../../../../home/akz/workspace/amplify-cli/packages/amplify-cli/aws-amplify-cli-internal-11.0.0-beta.8.tgz"
+  }
+}
